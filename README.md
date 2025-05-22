@@ -18,7 +18,7 @@ There you can also explore directly the :arrow_right: [**openMINDS_stimulation s
 
 ## How to cite
 
-For specifically referencing the openMINDS_core metadata model, please use the following RRID Portal record:  
+For specifically referencing the openMINDS_stimulation metadata model, please use the following RRID Portal record:  
 ```
 openMINDS stimulation metadata model (RRID:SCR_026253)
 ```
@@ -32,7 +32,7 @@ openMINDS metadata framework (RRID:SCR_023173)
 
 The openMINDS metadata framework is an open-source project and community contributions are highly appreciated. If you want to contribute please follow our :arrow_right: [**contribution guidelines**][contribution-url].
 
-Schema contributions to openMINDS_core should be raised and discussed on the :arrow_right: [**issue tracker**][issuetracker-stimulation]  
+Schema contributions to openMINDS_stimulation should be raised and discussed on the :arrow_right: [**issue tracker**][issuetracker-stimulation]  
 
 General usage questions should be raised and discussed in our :arrow_right: [**community forum**][community-forum].  
 Alternatively you can email us: `support@openmetadatainitiative.org`
@@ -65,9 +65,9 @@ The openMINDS metadata framework is closely collaborating with the [InterLex Pro
 [hbp-website]: https://www.humanbrainproject.eu
 [incf-website]: https://www.incf.org
 [interlex-dashboard]: https://scicrunch.org/scicrunch/interlex/dashboard
-[issuetracker-stimulation]: https://github.com/openMetadataInitiative/openMINDS_core/issues
+[issuetracker-stimulation]: https://github.com/openMetadataInitiative/openMINDS_stimulation/issues
 [issuetracker-main]: https://github.com/openMetadataInitiative/openMINDS/issues
 [ks-website]: https://knowledge-space.org
-[license-url]: https://raw.githubusercontent.com/openMetadataInitiative/openMINDS_core/v5/LICENSE
-[license-shield]: https://img.shields.io/github/license/openMetadataInitiative/openMINDS_core
+[license-url]: https://raw.githubusercontent.com/openMetadataInitiative/openMINDS_stimulation/v1/LICENSE
+[license-shield]: https://img.shields.io/github/license/openMetadataInitiative/openMINDS_stimulation
 [scicrunch-website]: https://scicrunch.org
