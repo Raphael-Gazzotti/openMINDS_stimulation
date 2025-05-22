@@ -54,7 +54,7 @@ The openMINDS metadata framework is closely collaborating with the [InterLex Pro
 [contributors-url]: https://github.com/openMetadataInitiative/openMINDS_stimulation/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/openMetadataInitiative/openMINDS_stimulation
 [docu-url]: https://openminds-documentation.readthedocs.io
-[docu-stimulation-url]: https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/stimulation.html
+[docu-stimulation-url]: https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/stimulation.html
 [ebrains2-doi]: https://doi.org/10.3030/101147319
 [hiball-url]: https://bigbrainproject.org/hiball.html
 [hbp-sga1-doi]: https://doi.org/10.3030/720270
